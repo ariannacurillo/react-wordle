@@ -2,6 +2,8 @@
 
 We are developing a Wordle Solver for our AI Practicum Project. We have cloned a Wordle project made using React, Typescript, and Tailwind and are creating the solver ourselves.
 
+Authors: Ben, Arianna, Jessie
+
 [**Try out the demo!**](https://reactle.vercel.app/)
 
 ## Build and run
