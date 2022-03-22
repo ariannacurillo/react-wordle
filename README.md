@@ -1,6 +1,6 @@
-# React Wordle
+# Wordle Solver
 
-This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
+We are developing a Wordle Solver for our AI Practicum Project. We have cloned a Wordle project made using React, Typescript, and Tailwind and are creating the solver ourselves.
 
 [**Try out the demo!**](https://reactle.vercel.app/)
 
